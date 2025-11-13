@@ -1,0 +1,21 @@
+Problem Statement - OpenDeepResearcher: Agentic LLM Research Framework
+
+In the era of information explosion, researchers, students, and professionals are constantly challenged by the need to analyze massive amounts of data spread across multiple online sources. Conducting in-depth research on any topic typically involves several steps—planning, searching for information, verifying credibility, analyzing data, and finally summarizing findings into a coherent report. However, most of these processes are still manual and require considerable time, effort, and domain expertise.
+
+Traditional research workflows suffer from several major drawbacks:
+1. **Time Consumption:** Collecting, reading, and analyzing multiple sources is a slow and repetitive task.
+2. **Information Overload:** The internet contains vast, unfiltered content, making it difficult to identify authentic and relevant data.
+3. **Lack of Automation:** Most tools available today are limited to keyword-based search or summarization, without any coordination or reasoning between stages.
+4. **Human Bias and Errors:** Manual summarization often introduces subjective bias and inconsistency in research outcomes.
+
+To address these limitations, the proposed project **OpenDeepResearcher** aims to design and develop an **AI-powered agentic research assistant** that can autonomously perform all key stages of the research process. The system will leverage **Large Language Models (LLMs)**, **agentic workflows**, and **web APIs** to plan, retrieve, analyze, and summarize information intelligently—mimicking the workflow of a human researcher.
+
+The framework will consist of multiple intelligent agents:
+- **Planner Agent:** Breaks down the user’s main query into smaller, well-defined sub-questions and forms a research roadmap.
+- **Searcher Agent:** Retrieves up-to-date, credible content from the web using APIs such as Tavily.
+- **Writer Agent:** Synthesizes the collected data into structured, coherent, and cited summaries using LLM capabilities.
+- **Memory System:** Maintains session continuity, enabling long-term research tracking and iterative refinement.
+
+By automating these processes, OpenDeepResearcher will drastically reduce the manual effort and time required for comprehensive research. It will also improve objectivity, enhance scalability, and ensure structured and traceable outcomes. The final system aims to produce **multi-perspective, evidence-based reports** that can be used by students, educators, policy makers, and researchers alike.
+
+In essence, the project addresses the growing need for an **autonomous AI research framework** that combines planning, reasoning, and synthesis—empowering users to generate high-quality, verified, and structured research content efficiently.
